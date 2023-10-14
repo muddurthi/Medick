@@ -1,19 +1,20 @@
 # Medick
 ## ✨ Better Doctors Better Care  ✨
 
-This is a web based application developed for a restaurant named PARADISE.
+This is a web based application developed for a hospital named Medick.
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based hospital application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://happy-cliff-001189800.3.azurestaticapps.net
 
 
-**Demo Video** -  
+**Demo Video** -  https://youtu.be/5v-uQ-WqBdQ
 
 ## Azure Services-
 - Static Web App
-- Health bot
+- Azure Health bot
+  
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
