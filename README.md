@@ -33,27 +33,25 @@ This is a web based application developed for a restaurant named PARADISE.
 ![Screenshot (50)](https://github.com/muddurthi/Medick/assets/116054501/1a30b885-034b-409c-9ae6-86b82582a7c1)
 ![Screenshot (51)](https://github.com/muddurthi/Medick/assets/116054501/207b2660-42e2-4946-bc24-65f1634ce4b3)
 
-### Team page -
+### About page -
 ![Screenshot (52)](https://github.com/muddurthi/Medick/assets/116054501/580574f2-02ca-4508-ad3a-78f44f962438)
 ![Screenshot (53)](https://github.com/muddurthi/Medick/assets/116054501/0fe0e1ae-1cef-4820-b8a1-3e633a4879c6)
 ![Screenshot (54)](https://github.com/muddurthi/Medick/assets/116054501/bf7358a7-4b2d-4f6e-8e74-babbb6041200)
-
 ![Screenshot (55)](https://github.com/muddurthi/Medick/assets/116054501/18ac70dd-675c-4bb8-9937-e8f6fd030dab)
 ![Screenshot (56)](https://github.com/muddurthi/Medick/assets/116054501/655356a8-96e9-4b71-aa1b-e9fdc9a63e4e)
 ![Screenshot (57)](https://github.com/muddurthi/Medick/assets/116054501/152d8cbd-03c8-4595-ae1a-dcd2ae64499b)
+### Service Page -
 ![Screenshot (58)](https://github.com/muddurthi/Medick/assets/116054501/8c54bfd2-c948-498a-b5b2-ea76b1965e7c)
 ![Screenshot (59)](https://github.com/muddurthi/Medick/assets/116054501/14f79829-0d3b-4dfc-9c13-d145288cfd79)
+### Contact Page -
 ![Screenshot (60)](https://github.com/muddurthi/Medick/assets/116054501/0b7c81d0-f668-4980-a626-68fcc9d32fde)
 ![Screenshot (61)](https://github.com/muddurthi/Medick/assets/116054501/46e8eac1-2df0-4eab-9f53-2fc5996d6e96)
+### chatbot   Page -
 ![Screenshot (62)](https://github.com/muddurthi/Medick/assets/116054501/d19426f6-d772-438f-a6a5-97dc189c2181)
-
-### Menu Page -
-
-### About  Page -
 
 
 ## Tech Stack 💻-
 - Azure(Hosting)
 - CSS
-- Bootstrap
+- HTML
 - JavaScriptps
