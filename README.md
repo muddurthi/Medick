@@ -11,6 +11,9 @@ This is a web based application developed for a restaurant named PARADISE.
 
 **Demo Video** -  
 
+## Azure Services-
+- Static Web App
+- Health bot
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
