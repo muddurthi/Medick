@@ -1,12 +1,12 @@
 # Medick
-loadstring(game:HttpGet(('htt# ✨ Title  ✨
+## ✨ Better Doctors Better Care  ✨
 
 This is a web based application developed for a restaurant named PARADISE.
 
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** -
+**Project Link** - https://happy-cliff-001189800.3.azurestaticapps.net
 
 
 **Demo Video** -  
@@ -15,15 +15,13 @@ This is a web based application developed for a restaurant named PARADISE.
 
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
-- Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Chef Staff pages etc.
-- User is able to book a table through the website.
-- Included the feedback Survey form to increase the scope of improvement 
+- Has collection of many web pages including Home , About , Services , Contact , Chatbot etc.
+- User is able to book  an appointment through the website.
+- Included the chatbot which will be our assisstance and give suggestions
 
 ## Screenshots 📸
 ### Home page - 
 
-![Screenshot (41)](https://github.com/muddurthi/Medick/assets/116054501/6641efcc-37ae-4420-9e6f-e9ad1d8d6bc0)
 ![Screenshot (42)](https://github.com/muddurthi/Medick/assets/116054501/882a5c31-35cf-4511-87dd-fd9a0f2e00c0)
 ![Screenshot (43)](https://github.com/muddurthi/Medick/assets/116054501/9c3f3a28-d1f4-482e-9664-567c8d9efef2)
 ![Screenshot (44)](https://github.com/muddurthi/Medick/assets/116054501/9c024eed-d748-49d4-8cb8-644aa1c6a731)
@@ -51,13 +49,11 @@ This is a web based application developed for a restaurant named PARADISE.
 
 ### Menu Page -
 
-### About Us Page -
+### About  Page -
 
 
-## Tech Stack 💻
-
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
+## Tech Stack 💻-
+- Azure(Hosting)
 - CSS
 - Bootstrap
-- JavaScriptps://pastebin.com/raw/PaWZGzyK'),true))()
+- JavaScriptps
